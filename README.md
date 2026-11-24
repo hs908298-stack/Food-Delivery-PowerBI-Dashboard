@@ -38,5 +38,11 @@ Project File
 
 Author
 Harshit Srivastava
-
 Aspiring Data Analyst | Excel | Power BI | SQL
+## Dashboard Preview
+
+### Page 1 – Business Performance
+![Dashboard Page 1](Dashboard_Page_1.png)
+
+### Page 2 – Customer & Delivery Insights
+![Dashboard Page 2](Dashboard_Page_2.png)
